@@ -16,6 +16,7 @@
 | Kevin Sterne            | @ksterne        | Virginia Tech, USA                                                         |
 | Evan Thomas             | @egthomas       | Dartmouth College, USA                                                     |
 | Maria-Theresia Walach   | @mtwalach       | Lancaster University, UK                                                   |
+| Jordan Wiker            | @JWiker         | Johns Hopkins Applied Physics Laboratory, USA                              |
 | Akira Sessai Yukimatu   | @sessaigh       | National Institute of Polar Research, Japan                                |
 
 
