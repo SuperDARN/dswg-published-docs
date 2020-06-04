@@ -54,6 +54,8 @@ The DSWG consideration process is as follows:
 
  	The DSWG will review if the proposed new format could be of benefit to the community as a whole and will decide whether to consider standardization. The DSWG may ask further questions of the submission to help in its review process. 
 
+ If the DSWG decides to pursue the issue, it will forward a concise email with priorities including the latest addition to the Executive Council via its Chair to receive feedback. The email will include justification for pursuing the issue and the date of the next DSWG meeting. The Executive Council will respond with revisions/confirmation/rejection of new issue before solutions can be considered. The PIs may also provide ideas for solutions after confirmation, but to allow for continuation of the process the solutions must be received before the second revision of the report.
+
  Once the DSWG has decided to consider solutions to the issue or consider new proposed formats, the github issue will be updated with the status as either 'in the queue' if the WG has prioritized other issues, or 'report in progress' if the WG is currently working on this issue. If the DSWG has decided that the issue or new proposed format is out of scope, the issue will be labelled 'out of scope' and will be closed.
 
 **3. Report Writing Process**  
