@@ -10,7 +10,7 @@
 | Xiang Deng              | @dengxiang2015  | National Space Science Center, China                                       |   x   |
 | Keith Kotyk             | @kkotyk         | University of Saskatchewan, Canada                                         |       |
 | Aurelie Marchaudon      | @SDFrance       | Institut de Recherche en Astrophysique et Planétologie (IRAP/CNRS), France |   x   |
-|                         |                 | (also voting for SANAE)                                                    |   x   |
+|                         |                 | (also designated to vote for South African National Space Agency (SANSA))  |   x   |
 | Nozomu Nishitani        |                 | Nagoya University, Japan                                                   |   x   |
 | Marina Schmidt          | @mts299         | University of Saskatchewan, Canada                                         |       |
 | Xueling Shi             | @Shirling-VT    | Virginia Tech, USA                                                         |       |
