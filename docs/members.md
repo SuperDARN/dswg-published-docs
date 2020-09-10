@@ -5,7 +5,7 @@
 | Marci Detwiller [chair] | @mardet987      | University of Saskatchewan, Canada                                         |   x   |
 | Brian Bienvenu          | @brianbienvenu  | La Trobe University, Australia                                             |   x   |
 | Emma Bland              | @ecbland        | University Centre in Svalbard (UNIS), Norway                               |   x   |
-| Bill Bristow            | @wabristow      | University of Alaska Fairbanks, USA                                        |   x   |
+| Bill Bristow            | @wabristow      | Penn State University, USA                                                 |   x   |
 | Angeline Burrell        | @aburrell       | Naval Research Laboratory, USA  (voting for BAS)                           |   x   |
 | Xiang Deng              | @dengxiang2015  | National Space Science Center, China                                       |   x   |
 | Keith Kotyk             | @kkotyk         | University of Saskatchewan, Canada                                         |       |
