@@ -79,7 +79,7 @@ The DSWG consideration process is as follows:
 		The recommended solution of the DSWG (approved through a vote), including a justification and description of the benefits of this solution. Counterarguments addressed, if they have not been already.   
 	* _Suggested Steps for Implementation_   
 		Details, including a suggested timeline, suggested procedure if applicable.   
-	* _Conclusions_  
+	* _Suggested Meeting Motion_  
 		A review of the importance of the issue and a suggested meeting motion that could be made at the PI meeting.  
    
  * __New Proposed Formats__
@@ -97,7 +97,7 @@ The DSWG consideration process is as follows:
 		The recommended solution of the DSWG (approved through a vote) on whether to standardize and suggested method to do so. Counterarguments addressed, if they have not been already.   
 	* _Suggested Steps for Implementation_   
 		Details, including a suggested timeline, suggested procedure if applicable.   
-	* _Conclusions_   
+	* _Suggested Meeting Motion_   
 		A review of the importance of the issue and a suggested meeting motion that could be made at the PI meeting.  
 
  The DSWG will utilize a private github repo to collaborate on the report. The working group will aim to objectively evaluate the advantages and disadvantages of the various solutions. All working group members can contribute to the report. 
@@ -106,19 +106,19 @@ The DSWG consideration process is as follows:
  
  Following brainstorming, members may volunteer to write the first draft of various preliminary sections of the report (excluding recommendation, suggested steps for implementation, and conclusions, which can only be written following the vote for recommended solution). Deadlines for first draft of the preliminary report will be set, giving maximum 2-3 weeks time for writing.
 
- After the first draft of preliminary sections is complete and a pull request is created on github, the DSWG will review the first draft of the report using github. A deadline for first draft reviews will be set (1-2 weeks). Reviewers should check primarily for missing key points, and secondly for objective content. Caution should be exercised however in removing content. Content may be removed if it is:
+ After the first draft of preliminary sections is complete and a pull request is created on github, the DSWG will review the first draft of the report using github. A deadline for first draft reviews will be set (1-2 weeks, prior to a meeting). Reviewers should check primarily for missing key points, and secondly for objective content. Caution should be exercised however in removing content. Content may be removed if it is:
 
  - subjective (in which case can the content be made more objective?)  
  - out of scope of the issue itself (does this concern another issue? However, is it still relevant depending on the solution?)  
  - has excess detail about a certain point (the report aims to be concise - could a reference be used instead?)  
 
- A new, second volunteer will be selected to revise the report according to recommendations. The second draft will have a deadline of 2-3 weeks, following the end of the first review. The second writer for any given section should differ from the first writer of the section, to encourage objective writing and remove some personal bias.
+ A new, second volunteer will be selected to revise the report according to recommendations. The second draft will have a deadline of 2-3 weeks, following the end of the first review. The second writer for any given section should differ from the first writer of the section, to encourage objective writing and remove some personal bias. However, if a separate second writer cannot be found the original writer can complete the revisions. 
 
- Once the second writer has finished with their revisions, the DSWG community will then have a second opportunity of 1-2 weeks to review the report. A telecon will be held following the second review to settle content disputes and agree on final details. If necessary, a volunteer will be selected for revisions (may be the first or second writer if they wish). 
+ Once the second writer has finished with their revisions, the DSWG community will then have a second opportunity of 1-2 weeks to review the report (prior to a meeting). A telecon will be held following the second review to settle content disputes and agree on final details. If necessary, a volunteer will be selected for revisions (may be the first or second writer if they wish). 
 
  **4. DSWG Recommended Solution**  
 
- After the preliminary report is agreed upon, a 48-hour period will be set for voting on the recommended solution. Please note that the sections contained in the preliminary report will not be revised further after is has been approved at the WG meeting. This means the preliminary report cannot be changed during the lead-up to the voting, during voting, or after voting. All WG members are expected to provide their input on the solutions offered during the earlier preliminary report writing and review process. 
+ After the preliminary report is agreed upon, a period of minimum 48 hours (preferably longer) will be set for voting on the recommended solution. Please note that the sections contained in the preliminary report will not be revised further after is has been approved at the WG meeting. This means the preliminary report cannot be changed during the lead-up to the voting, during voting, or after voting. All WG members are expected to provide their input on the solutions offered during the earlier preliminary report writing and review process. 
 
  The dates of the vote will be communicated both on the github and via email to all members of the WG. Voting will be done via ranked ballot on SurveyMonkey. The poll will be sent via email to the members of the WG. The chair will set up the poll with the solutions proposed in the preliminary report. The preliminary report will be available on the private github repo for all members to review and determine their preferred ranking. 
 
