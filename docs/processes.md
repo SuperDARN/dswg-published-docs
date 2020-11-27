@@ -58,6 +58,11 @@ The DSWG consideration process is as follows:
 
  Once the DSWG has decided to consider solutions to the issue or consider new proposed formats, the github issue will be updated with the status as either 'in the queue' if the WG has prioritized other issues, or 'report in progress' if the WG is currently working on this issue. If the DSWG has decided that the issue or new proposed format is out of scope, the issue will be labelled 'out of scope' and will be closed.
 
+ Issues that can be resolved by additional documentation to an already-existing format 
+ standard, where the information is well-known, can proceed without a recommendation report 
+ to the PIs. The PIs should still be informed of the new issue via an email and informed of 
+ any changes made as a result during regular updates.
+
 **3. Report Writing Process**  
 
  * __Issues__
