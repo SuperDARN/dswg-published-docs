@@ -54,9 +54,14 @@ The DSWG consideration process is as follows:
 
  	The DSWG will review if the proposed new format could be of benefit to the community as a whole and will decide whether to consider standardization. The DSWG may ask further questions of the submission to help in its review process. 
 
- If the DSWG decides to pursue the issue, it will forward a concise email with priorities including the latest addition to the Executive Council via its Chair to receive feedback. The email will include justification for pursuing the issue and the date of the next DSWG meeting. The Executive Council will respond with revisions/confirmation/rejection of new issue before solutions can be considered. The PIs may also provide ideas for solutions after confirmation, but to allow for continuation of the process the solutions must be received before the second revision of the report.
+ If the DSWG decides to pursue the issue, it will forward a concise email with priorities including the latest addition to the Executive Council via its Chair to receive feedback. The email will include justification for pursuing the issue and the date of the next DSWG meeting. The Executive Council will respond with revisions/confirmation/rejection of new issue before solutions can be considered. The PIs may also provide ideas for solutions after confirmation, but to allow for continuation of the process the solutions must be received before the second revisions of the report.
 
  Once the DSWG has decided to consider solutions to the issue or consider new proposed formats, the github issue will be updated with the status as either 'in the queue' if the WG has prioritized other issues, or 'report in progress' if the WG is currently working on this issue. If the DSWG has decided that the issue or new proposed format is out of scope, the issue will be labelled 'out of scope' and will be closed.
+
+ Issues that can be resolved by additional documentation to an already-existing format 
+ standard, where the information is well-known, can proceed without a recommendation report 
+ to the PIs. The PIs should still be informed of the new issue via an email and informed of 
+ any changes made as a result during regular updates.
 
 **3. Report Writing Process**  
 
@@ -112,9 +117,9 @@ The DSWG consideration process is as follows:
  - out of scope of the issue itself (does this concern another issue? However, is it still relevant depending on the solution?)  
  - has excess detail about a certain point (the report aims to be concise - could a reference be used instead?)  
 
- A new, second volunteer will be selected to revise the report according to recommendations. The second draft will have a deadline of 2-3 weeks, following the end of the first review. The second writer for any given section should differ from the first writer of the section, to encourage objective writing and remove some personal bias. However, if a separate second writer cannot be found the original writer can complete the revisions. 
+ If necessary, a second volunteer will be selected to revise the report according to recommendations. The second draft will have a deadline of 2-3 weeks, following the end of the first review. The second writer for any given section should differ from the first writer of the section, to encourage objective writing and remove some personal bias. However, if a separate second writer cannot be found the original writer can complete the revisions. 
 
- Once the second writer has finished with their revisions, the DSWG community will then have a second opportunity of 1-2 weeks to review the report (prior to a meeting). A telecon will be held following the second review to settle content disputes and agree on final details. If necessary, a volunteer will be selected for revisions (may be the first or second writer if they wish). 
+ Once the revisions are complete, the DSWG community will then have a second opportunity of 1-2 weeks to review the report (prior to a meeting). A telecon will be held following the second review to settle content disputes and agree on final details. If necessary, a volunteer will be selected for last revisions (may be the first or second writer if they wish). 
 
  **4. DSWG Recommended Solution**  
 
@@ -126,7 +131,7 @@ The DSWG consideration process is as follows:
 
  **5. Report Completion**  
 
- Following the poll, the WG will have a scheduled meeting for their final ideas related to a timeline, procedure (if part of the solution), and other ideas that could make any transitions to the recommended solution easier or more convenient. A volunteer writer will then write up the last three sections: DSWG Recommendation, Suggested Steps for Implementation, and Conclusions. Again, a maximum of 2-3 weeks will be provided for writing, and another 1-2 weeks for review. A final scheduled meeting will be held to approve the report before it is sent to the PIs for their review. 
+ Following the poll, the WG will have a scheduled meeting for their final ideas related to a timeline, procedure (if part of the solution), and other ideas that could make any transitions to the recommended solution easier or more convenient. A volunteer writer will then write up the last sections: DSWG Recommendation and Suggested Steps for Implementation. An Executive Summary should also be written at this time with a suggested PI meeting motion. Again, a maximum of 2-3 weeks will be provided for writing, and another 1-2 weeks for review. A final scheduled meeting will be held to approve the report before it is sent to the PIs for their review. 
  
  Note that ultimately the PIs are under no obligation to implement the recommendation from the report. The recommendation just gives additional information on the community's views and level of agreement. Also, the PIs are welcome to return the report after it has been submitted if they think something important has been missed. On the other hand, if there is general consensus within both groups, the PIs are able to move forward quickly on those issues with the recommended solution and can consider the suggested steps for implementation.
 
